@@ -3,6 +3,8 @@ public class Singleton{
 public static void main(Stirng[] args){
 
    System.out.println("Hello");
+   System.out.println("Hi");
+
 System.out.println("how are you");
 
 }
